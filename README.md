@@ -10,12 +10,6 @@ gatekeeper-policy-skill/
 ├── README.md             # 使用说明
 ├── agents/
 │   └── openai.yaml       # Agent 配置
-├── templates/            # ConstraintTemplate 示例
-│   └── k8srequiredlabels.yaml
-├── constraints/          # Constraint 示例
-│   └── k8srequiredlabels.yaml
-└── test/                 # gator 测试文件
-    └── test.yaml
 ```
 
 ## 如何使用
